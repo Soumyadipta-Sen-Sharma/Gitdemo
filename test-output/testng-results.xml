@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-07T23:32:48 IST" name="Default suite" finished-at="2024-08-07T23:32:48 IST" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2024-08-07T23:32:48 IST" name="Default test" finished-at="2024-08-07T23:32:48 IST" duration-ms="55">
+      <class name="javaStreams.JavaStream">
+        <test-method signature="mapping()[pri:0, instance:javaStreams.JavaStream@60bd273d]" started-at="2024-08-07T23:32:48 IST" name="mapping" finished-at="2024-08-07T23:32:48 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mapping -->
+        <test-method signature="printmapping()[pri:0, instance:javaStreams.JavaStream@60bd273d]" started-at="2024-08-07T23:32:48 IST" name="printmapping" finished-at="2024-08-07T23:32:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printmapping -->
+        <test-method signature="regular()[pri:0, instance:javaStreams.JavaStream@60bd273d]" started-at="2024-08-07T23:32:48 IST" name="regular" finished-at="2024-08-07T23:32:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regular -->
+      </class> <!-- javaStreams.JavaStream -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
